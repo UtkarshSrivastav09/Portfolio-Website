@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Hand%20Wave.gif" width="50"> I'm Utkarsh Srivastav</h1>
 <h3 align="center">I'm Pursuing From Bachelor of Computer Applications</h3>
 
-<img align="right" alt="coding" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.158741866.1733638931&semt=ais_hybrid&w=740" width="450">
+<img align="right" alt="coding" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.158741866.1733638931&semt=ais_hybrid&w=740" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsrivastav09&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsrivastav09" /> </p>
 
